@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Alimentar os peixes.",
+        "status": false,
+        "userId": 1
+    },
+    {
+        "id": 2,
+        "title": "Comprar ingredientes para um bolo de chocolate.",
+        "status": false,
+        "userId": 1
+    },
+    {
+        "id": 3,
+        "title": "Lavar o carro.",
+        "status": false,
+        "userId": 1
+    },
+    {
+        "id": 4,
+        "title": "Ir a uma reunião no centro às 15h.",
+        "status": false,
+        "userId": 1
+    },
+    {
+        "id": 5,
+        "title": "Levar o gato ao veterinário.",
+        "status": false,
+        "userId": 1
+    },
+    {
+        "id": 6,
+        "title": "Fazer as atividades pendentes da faculdade.",
+        "status": false,
+        "userId": 2
+    },
+    {
+        "id": 7,
+        "title": "Estudar sobre Express JS, rotas e etc.",
+        "status": false,
+        "userId": 2
+    },
+    {
+        "id": 8,
+        "title": "Comprar materiais para a reforma do quarto.",
+        "status": false,
+        "userId": 2
+    },
+    {
+        "id": 9,
+        "title": "Estudar e se atualizar das atualizações recentes do Javascript.",
+        "status": false,
+        "userId": 2
+    },
+    {
+        "id": 10,
+        "title": "Fazer a limpeza de todo o hardware do pc e periféricos.",
+        "status": false,
+        "userId": 2
+    },
+    {
+        "id": 11,
+        "title": "Limpar o quarto e levar lixo pra fora.",
+        "status": false,
+        "userId": 1
+    },
+    {
+        "id": 12,
+        "title": "Aprimorar o dashboard do Grafana.",
+        "status": true,
+        "userId": 1
+    },
+    {
+        "id": 13,
+        "title": "Colocar os jobs do Rundeck para executar.",
+        "status": true,
+        "userId": 1
+    },
+    {
+        "id": 14,
+        "title": "Criar um monitoramento para um Web cenário no Zabbix.",
+        "status": false,
+        "userId": 1
+    },
+    {
+        "id": 15,
+        "title": "Abrir chamado com a Vox.",
+        "status": false,
+        "userId": 1
+    },
+    {
+        "id": 16,
+        "title": "Estudar os assuntos mais recentes das aulas.",
+        "status": false,
+        "userId": 2
+    },
+    {
+        "id": 17,
+        "title": "Entender mais sobre o Azure DevOps.",
+        "status": false,
+        "userId": 2
+    },
+    {
+        "id": 18,
+        "title": "Fazer compras no supermercado",
+        "status": false,
+        "userId": 2
+    },
+    {
+        "id": 19,
+        "title": "Se atualizar sobre o mercado de tecnologia.",
+        "status": true,
+        "userId": 2
+    },
+    {
+        "id": 20,
+        "title": "Preparar as refeições do dia.",
+        "status": true,
+        "userId": 2
+    }
+]
